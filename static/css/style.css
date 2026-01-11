@@ -1,0 +1,10 @@
+body{
+    background-color: whitesmoke;
+    background-image: 
+        linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+        url(/assets/images/9-photo-2022-04-20-10-22-33_13_360434-165453925659378.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
